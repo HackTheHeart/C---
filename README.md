@@ -1,2 +1,2 @@
-# A-star-path-finding
-C---
+# C---
+A star path finding
